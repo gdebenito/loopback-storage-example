@@ -1,0 +1,6 @@
+{
+  "name": "fileds",
+  "connector": "loopback-component-storage",
+  "provider": "filesystem",
+  "root": "./storage"
+}
